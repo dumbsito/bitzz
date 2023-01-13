@@ -1,0 +1,38 @@
+nav{
+    background-color: rgb(2, 132, 199);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    height: 4rem;
+    position: fixed;
+    width: 100%;
+       z-index: 9999;
+
+}
+.gitzz{
+    background-color: rgb(3 105 161 / 1);
+    width: 16%;
+    margin-left: -10px;
+    margin-top: -10px;
+    font-size: 22px;
+    padding: 20px;
+    margin-bottom: -10px;
+
+    svg{
+        width: 50px;
+    }
+}
+
+.btn{
+    padding: 5px;
+    width: 5rem;
+    height: 2.5rem;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.btn:hover{
+background-color: rgba(4, 25, 58, 0.5);
+}
+

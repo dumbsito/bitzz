@@ -1,0 +1,145 @@
+img,svg{
+
+    width: 150px;
+    height: 150px;
+}
+
+.login{
+    padding:7px;
+    width: 5rem;
+    font-size: 10px;
+    color: white;
+    font-weight:700;
+    background-color: rgb(29 78 216 / 1);
+    scale: 1.5;
+}
+.signup{
+    background-color: #191d24;
+    padding:7px;
+    width: 5rem;
+    font-size: 10px;
+    color: white;
+    font-weight:700;
+    scale: 1.5;
+}
+.f{
+    padding-top: 100px;
+}
+.fast{
+    margin-left: 80px;
+    padding-top: 30px;
+
+    h1{
+   
+        font-weight: 800;
+        width: 400px;
+        transform: rotate(-3.8deg);
+    }
+
+    p{
+        width: 380px;
+        margin-top: 10px;
+        transform: rotate(-3.8deg);
+    }
+}
+
+
+.laptop{
+    height: 380px;
+    width:610px ;
+    margin-left: 100px;
+    margin-top: 3rem;
+    transform: rotate(6deg);
+}
+
+
+.puntitos{
+    margin-bottom: 1rem;
+    display: block;
+    height: 0.75rem;
+    width: 0.75rem;
+    border-radius: 9999px;
+    opacity: .3;
+    box-shadow: 1.4em 0, 2.8em 0, 4.2em 0;
+}
+
+.cardcontainer{
+    gap: 30px;
+    margin-left: 200px;
+    margin-top: 280px;
+
+    .card{
+        background-color: #191d24;
+        color: white;
+          height: 300px;
+          width: 300px;
+       
+        h4{
+            font-weight: bold;
+            text-align: center;
+            margin-top: -30px;
+        }
+        p{
+         
+            color: rgba(253, 253, 253, 0.5);
+            text-align: center;
+        }
+
+       svg{
+        
+        width: 112px;
+        height: 128px;
+       }
+    }
+}
+.contenedor{
+    margin-left: 150px;
+    color: #191d24;
+    img{
+        width: 288px;
+        height: 290px;
+    }
+    p{
+        margin-top: 120px;
+        margin-left: 30px;
+    }
+    .d{
+        margin-top: 60px;
+        background-color: #e5e7eb;
+        width: 86%;
+    }
+}
+
+.phonecontainer{
+    margin-top: 290px;
+    margin-left: 300px;
+ 
+    img{
+        width: 350px;
+        height: 550px;
+        transform: rotate(-5deg);
+        z-index: 9999;
+    }
+
+    h1{
+        font-size: 40px;
+        font-weight: 600;
+    }
+
+    button{
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .signup{
+        margin-left: 60px;
+    }
+}
+.relleno{
+    height:330px;
+    width: 100%;
+    background-color: #2a303c;
+    position: absolute;
+    margin-top: -225px;
+    position: absolute;
+    
+}
